@@ -6,7 +6,7 @@ Googleアナリティクスは、Webサイトやアプリにどんな人が訪�
 
 ## 操作手順
 
-https://developers.google.com/analytics?hl=ja にアクセスし、「アナリティクスに移動」をクリック
+[https://developers.google.com/analytics?hl=ja](https://developers.google.com/analytics?hl=ja) にアクセスし、「アナリティクスに移動」をクリック
 
 ![img.png](assets/img.png)
 
