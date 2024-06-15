@@ -1,18 +1,34 @@
 # Googleアナリティクスとの紐付け
 
+Googleアナリティクスにて、先ほど作成したWebアプリのデータ収集を始める。
+
 ## 操作手順
+
+ダッシュボードにて「ウェブ」を選択
 
 ![img.png](assets/img_00.png)
 
+「ウェブサイトのURL」に先ほど作成したWebアプリのURLを入力し、「ストリーム名」に「ウェブサイト」と入力し、「作成して続行」をクリック。
+
 ![img_19.png](assets/img_19.png)
+
+作成したデータストリームを選択。
 
 ![img_20.png](assets/img_20.png)
 
+「タグの実装手順を表示する」をクリック。
+
 ![img_21.png](assets/img_21.png)
+
+「手動でインストール」タブを開き、そこで表示されているコードをコピーする。
 
 ![img_22.png](assets/img_22.png)
 
+CodeSandboxにて、先ほどコピーしたコードをbodyタグの下に貼り付ける。
+
 ![img_23.png](assets/img_23.png)
+
+Googleアナリティクスの「ウェブサイトをテストする」にて、設定がうまくいっているかテストする。
 
 ![img_24.png](assets/img_24.png)
 
