@@ -1,4 +1,4 @@
-# Webアプリを作成
+# 3. Webアプリを作成
 
 今回はCodeSandboxを使ってWebアプリを作成します。CodeSandboxはブラウザ上でWebアプリを開発できるツールです。
 
