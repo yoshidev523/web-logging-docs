@@ -4,23 +4,23 @@
 
 ## 操作手順
 
-[https://codesandbox.io/](https://codesandbox.io/) にアクセスし、「Start for free」をクリック
+[https://codesandbox.io/](https://codesandbox.io/) にアクセスし、「Sign In」をクリックし、Googleアカウントでログインする。
 
-![img_8.png](assets/img_8.png)
+![img.png](img.png)
 
-「Create a Sandbox」をクリック
+![img_1.png](img_1.png)
 
-![img_10.png](assets/img_10.png)
+ダッシュボードにて「+Sandbox」をクリック
+
+![img_2.png](img_2.png)
 
 「HTML + CSS」をクリック
 
 ![img_11.png](assets/img_11.png)
 
-まだログインしていないため、このままではファイルを編集できない。 「Sign in」をクリックし、「Sign in with Google」をクリックして自身のGoogleアカウントでログイン。
+「Sandbox Name」を適当に設定（デフォルトのままでも良い）して「Create Sandbox」をクリック
 
-![img_12.png](assets/img_12.png)
-
-![img_13.png](assets/img_13.png)
+![img_3.png](img_3.png)
 
 次にWebアプリを誰でもアクセスできるようにします。「Share」から「Visibility」をPublicにし、「Move Sandbox」をクリックします。
 
