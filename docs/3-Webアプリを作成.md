@@ -4,7 +4,7 @@
 
 ## 操作手順
 
-[https://codesandbox.io/](https://developers.google.com/analytics?hl=ja) にアクセスし、「Start for free」をクリック
+[https://codesandbox.io/](https://codesandbox.io/) にアクセスし、「Start for free」をクリック
 
 ![img_8.png](assets/img_8.png)
 
