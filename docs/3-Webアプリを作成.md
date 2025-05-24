@@ -10,9 +10,9 @@
 
 ![img_1.png](img_1.png)
 
-ダッシュボードにて「+Sandbox」をクリック
+ダッシュボードにて「+Create」をクリック
 
-![img_2.png](img_2.png)
+![img_4.png](img_4.png)
 
 「HTML + CSS」をクリック
 
@@ -22,11 +22,9 @@
 
 ![img_3.png](img_3.png)
 
-次にWebアプリを誰でもアクセスできるようにします。「Share」から「Visibility」をPublicにし、「Move Sandbox」をクリックします。
+次にWebアプリを誰でもアクセスできるようにします。「Share」から「Visibility」をPublicにします。
 
 ![img_14.png](assets/img_14.png)
-
-![img_15.png](assets/img_15.png)
 
 以下のアイコンをクリックすると、別タブでWebアプリが表示されます。
 
